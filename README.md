@@ -3,7 +3,7 @@
 ⚠️ **Note:** Due to GitHub file size limitations, the Power BI `.pbix` file is hosted externally.
 
 📥 **Download the full Power BI dashboard here:**  
-[Download PBIX](YOUR_GOOGLE_DRIVE_LINK)
+[Download PBIX](https://drive.google.com/file/d/1i1iRga7PLa1Ro1NUZyZZxb7OUuyO_iQq/view?usp=sharing)
 
 ---
 
