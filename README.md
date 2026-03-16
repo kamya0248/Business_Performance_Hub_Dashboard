@@ -5,7 +5,7 @@
 📥 **Download the full Power BI dashboard here:**  
 [Download PBIX](https://drive.google.com/file/d/1i1iRga7PLa1Ro1NUZyZZxb7OUuyO_iQq/view?usp=sharing)
 
-![Dashboard Overview](assets/executive_view.png)
+![Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiM2YzYzk1OTctYWMzZC00OTk4LWI3ZjktMDIwNmUzZjI1ODUwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=013d02798cc90688b0e7)
 
 ---
 
