@@ -3,9 +3,9 @@
 ⚠️ **Note:** Due to GitHub file size limitations, the Power BI `.pbix` file is hosted externally.
 
 📥 **Download the full Power BI dashboard here:**  
-[Download PBIX](https://drive.google.com/file/d/1i1iRga7PLa1Ro1NUZyZZxb7OUuyO_iQq/view?usp=sharing)
+[Download PBIX](https://drive.google.com/file/d/1MpNNQPEzAF3KAzNHQCQf1zyhj6sJYPbz/view?usp=sharing)
 
-[Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiM2YzYzk1OTctYWMzZC00OTk4LWI3ZjktMDIwNmUzZjI1ODUwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=013d02798cc90688b0e7)
+[Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmY3MWU5NWQtYzdkZi00YmIwLWIyM2YtZGQxMmQ3ZjA0MWQ1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## Dashboard Preview
 
