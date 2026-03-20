@@ -1,4 +1,4 @@
-# Business Insights 360 – Power BI Analytics Dashboard
+# Business Performance Hub – Power BI Analytics Dashboard
 
 ⚠️ **Note:** Due to GitHub file size limitations, the Power BI `.pbix` file is hosted externally.
 
@@ -15,7 +15,7 @@
 
 # Project Overview
 
-**Business Insights 360** is an end-to-end business intelligence solution developed for **AtliQ Hardware**, a global hardware manufacturer, to enable leadership teams to make **data-driven decisions** across multiple business functions.
+**Business Performance Hub** is an end-to-end business intelligence solution developed for **AtliQ Hardware**, a global hardware manufacturer, to enable leadership teams to make **data-driven decisions** across multiple business functions.
 
 The company previously relied on **large Excel files and manual analysis**, which made it difficult for regional managers and executives to quickly analyze performance across markets. This project introduces a centralized **Power BI dashboard** that consolidates enterprise data and provides interactive insights into **Finance, Sales, Marketing, and Supply Chain operations**.
 
